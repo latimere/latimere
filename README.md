@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @latimere
-- 🌱 I’m interested in learning... HTML, CSS, & PYTHON.
+- 👋 Hi, I’m @caseykreicar
+- 🌱 I’m interested in learning... HTML, CSS, JS, & PYTHON.
 - 📫 How to reach me ... kreicarcl@alumni.vcu.edu
 - 🌐 Website latimere.io
 
