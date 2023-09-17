@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caseykreicar
-- 🌱 I’m interested in learning... HTML, CSS, JS, & PY.
+- 🌱 I’m interested in learning... HTML, CSS, JS, PY, PHP, & SQL.
 - 📫 How to reach me ... kreicarcl@alumni.vcu.edu
-- 🌐 Website latimere.io
+- 🌐 Website http://latimere.io
 
 <!---
 latimere/latimere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
